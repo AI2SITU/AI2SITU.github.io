@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 739" role="img" aria-label="Artificial Intelligence and Intelligent Systems Laboratory logo">
+  <polygon points="846,369 765,596 554,736 294,736 83,596 2,369 83,142 294,2 554,2 765,142" fill="#2583c5"/>
+  <g fill="#fff">
+    <path d="M118 125 L415 474 L118 304 Z"/>
+    <path d="M731 125 L433 474 L731 304 Z"/>
+    <path d="M131 472 L424 125 L717 472 L711 472 L425 228 L139 472 Z"/>
+    <text x="425" y="545" text-anchor="middle" font-family="Tahoma, 'Segoe UI', Verdana, sans-serif" font-weight="700" font-size="44">Artificial Intelligence and</text>
+    <text x="425" y="603" text-anchor="middle" font-family="Tahoma, 'Segoe UI', Verdana, sans-serif" font-weight="700" font-size="44">Intelligent Systems Laboratory</text>
+  </g>
+</svg>
